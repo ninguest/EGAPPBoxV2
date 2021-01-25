@@ -1,14 +1,9 @@
 # EGAPPBoxV2
 This is an APP made during internship in Engineering Good to assist Computers against Covid programme. (Year 2020 -2021)
 
-
-# EGAPPBoxV2 is updated from EGAPPBox-CAC
-
-EGAPP Box (CAC) by 9Guest (1/1/2021)
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UYiEPgAkQiw/0.jpg)](https://www.youtube.com/watch?v=UYiEPgAkQiw)
-
 # [ EGAPPBox v2 ] 🔥
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XxHfZ3mssw4/0.jpg)](https://www.youtube.com/watch?v=XxHfZ3mssw4)
 
 **Supported OS**
 Windows and MacOS
@@ -34,6 +29,12 @@ This has made the development of a Windows app easier. ( [More Info about modern
 **Link to Engineering Good Discord Server :**
 [**Engineering Good @ Discord**](https://discord.gg/4ctzGu5v4F)
 Engineering Good Discord is used to store CAC PDF created by the APP. Everytime the App creates a PDF, the PDF will be automatically sent to The Discord Server through EGAPPBox Discord Bot `(EGAPPBox#1284)`
+
+# EGAPPBoxV2 is updated from EGAPPBox-CAC
+
+EGAPP Box (CAC) by 9Guest (1/1/2021)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UYiEPgAkQiw/0.jpg)](https://www.youtube.com/watch?v=UYiEPgAkQiw)
 
 # Want to help to develop EGAPPBoxV2 ?
 
