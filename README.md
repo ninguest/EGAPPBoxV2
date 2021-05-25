@@ -15,7 +15,7 @@ Windows and MacOS
 **9Guest** (9guest@engineeringgood.org)
 
 **Documentation :**
-[Click Me to EGAPPBoxV2 Documentation](https://eg9guest.github.io/EGAPPBoxV2/documentation/)
+[Click Me to EGAPPBoxV2 Documentation](https://ninguest.github.io/EGAPPBoxV2/documentation/)
 
 **Description :**
 ***EGAPPBoxV2*** is an **updated version** for EGAPPBox-CAC. It has *better looking and functionality* than the previous version. The App can now run in both MacOS and Windows ( Ideally Windows 10 ). It will auto detect the OS of the PC and alter the CAC form ( A form which store PC details ) and the format of storing data. The data retrieve from the PC will now store online in MongoDB and can be retrieve from anywhere which allows users to easily access the data and print out as PDF. 
